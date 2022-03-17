@@ -9,8 +9,8 @@ package com.mycompany.proyecto_git;
  *
  * @author lucas.varelanegro
  */
-public class Sumador { 
-public static float sumar (float a, float b ) {
-return a + b;
-}
-}
+public class Restador {
+public static float restar (float a, float b ){
+return a - b;
+}}
+
